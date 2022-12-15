@@ -1,0 +1,10 @@
+class yoga:
+  def flowyoga(self):
+  print("this is a flow yoga")
+  
+  def Hathayog(self):
+    print("this is Hathayoga")
+    
+    
+me = yoga()
+me.flowyoga()
